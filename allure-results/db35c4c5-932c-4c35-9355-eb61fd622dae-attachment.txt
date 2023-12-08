@@ -1,0 +1,5 @@
+{
+  "error": "no such element",
+  "message": "no such element: Unable to locate element: {\"method\":\"xpath\",\"selector\":\"//button[@data-testid='sorters-dropdown-trigger']\"}\n  (Session info: chrome=120.0.6099.71)",
+  "stacktrace": "\tGetHandleVerifier [0x00007FF670884D02+56194]\n\t(No symbol) [0x00007FF6707F04B2]\n\t(No symbol) [0x00007FF6706976AA]\n\t(No symbol) [0x00007FF6706E16D0]\n\t(No symbol) [0x00007FF6706E17EC]\n\t(No symbol) [0x00007FF670724D77]\n\t(No symbol) [0x00007FF670705EBF]\n\t(No symbol) [0x00007FF670722786]\n\t(No symbol) [0x00007FF670705C23]\n\t(No symbol) [0x00007FF6706D4A45]\n\t(No symbol) [0x00007FF6706D5AD4]\n\tGetHandleVerifier [0x00007FF670BFD5BB+3695675]\n\tGetHandleVerifier [0x00007FF670C56197+4059159]\n\tGetHandleVerifier [0x00007FF670C4DF63+4025827]\n\tGetHandleVerifier [0x00007FF67091F029+687785]\n\t(No symbol) [0x00007FF6707FB508]\n\t(No symbol) [0x00007FF6707F7564]\n\t(No symbol) [0x00007FF6707F76E9]\n\t(No symbol) [0x00007FF6707E8094]\n\tBaseThreadInitThunk [0x00007FF9171953E0+16]\n\tRtlUserThreadStart [0x00007FF9187A485B+43]\n"
+}

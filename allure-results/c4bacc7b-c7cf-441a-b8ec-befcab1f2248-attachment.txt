@@ -1,0 +1,4 @@
+{
+  "using": "xpath",
+  "value": "//span[@data-date=\"2023-12-10\"]"
+}

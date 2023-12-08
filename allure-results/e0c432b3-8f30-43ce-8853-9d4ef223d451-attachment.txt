@@ -1,0 +1,4 @@
+{
+  "using": "xpath",
+  "value": "(//button[@tabindex='-1'])[1]"
+}
